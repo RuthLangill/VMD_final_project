@@ -1,0 +1,82 @@
+html{
+    background-color: #051322;
+}
+
+body{
+    text-align: center;
+    padding: 20px;
+    margin: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #d6e2ec;
+    font-family: 'Montserrat', sans-serif;
+}
+
+nav{
+    padding: 40px;
+    /*box-shadow: 0 0 10px 4px #00060D;*/
+    border: 4px #00060D;
+}
+
+a{
+    text-decoration: none;
+    color: #636E73;
+    text-shadow: #d6e2ec;/**/
+}
+
+a:hover{
+    color: #d8dfe0;
+    text-shadow: #1c5479;/**/
+}
+
+img{
+    border: 2px solid #0e1642d5;
+}
+
+#body_box{
+    background-color: #8C877D;
+}
+
+article{
+    margin: 100px;
+    margin-bottom: 50px;
+}
+
+p{
+    padding: 50px;
+    margin-bottom: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    color: #636E73;
+    line-height: 24px;
+    font-size: 16px;
+    max-width: 900px;
+    text-align: center;
+}
+
+h1{
+    font-size: 35px;
+    font-family: 'Caveat', cursive;
+}
+
+ul{
+    text-decoration: none;
+    list-style: none;
+}
+
+footer{
+    font-size: 16px;
+    letter-spacing: 1px;
+    font-family: 'Caveat', cursive;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Color Theme Swatches in Hex */
+.webfinal_dark2-1-hex { color: #00060D; }
+.webfinal_dark2-2-hex { color: #384A59; }
+.webfinal_dark2-3-hex { color: #636E73; }
+.webfinal_dark2-4-hex { color: #8C877D; }
+.webfinal_dark2-5-hex { color: #EED0AD; }
+
